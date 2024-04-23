@@ -1,5 +1,7 @@
 WorkStuff Repository
-Welcome to the WorkStuff repository! This repository is dedicated to organizing and managing work-related documents, code, and resources. Whether you're collaborating with colleagues, managing projects, or simply organizing your work files, this repository aims to streamline your workflow and enhance productivity.
+
+Welcome to the WorkStuff repository!
+This repository is dedicated to organizing and managing work-related documents, code, and resources. Whether you're collaborating with colleagues, managing projects, or simply organizing your work files, this repository aims to streamline your workflow and enhance productivity.
 
 Table of Contents
 Introduction
